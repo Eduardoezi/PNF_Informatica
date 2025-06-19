@@ -168,8 +168,8 @@ Comprender la dinámica institucional de uso del hardware desde una perspectiva 
 - Una tabla dividida en tres columnas:
 
 |Fecha -------| área observada	Registro técnico	Registro reflexivo | Relacional-------------------------------|
-|------------|-----------------------------------------------------|------------------------------------------|
-|03/07/2025 |/ Unidad de Nómina	CPU marca X, Windows 7, 12 años de uso; impresora con fallas de alimentación	|Se evidenció frustración en el operador. Usa su teléfono personal para complementar tareas. Señala que “eso ya no sirve” pero nadie propone reemplazo.|
+|-------------|------------------------------------------------------|------------------------------------------|
+|03/07/2025 |- Unidad de Nómina	CPU marca X, - Windows 7, - 12 años de uso; - impresora con fallas de alimentación	|Se evidenció frustración en el operador. Usa su teléfono personal para complementar tareas. Señala que “eso ya no sirve” pero nadie propone reemplazo.|
 
 ##### Consideraciones éticas y metodológicas:
 - Se realizará la observación por tramos breves durante la jornada, sin interrumpir el ritmo institucional.
@@ -250,3 +250,43 @@ Avella Espitia, K. E., et al. (2021). IAP: metodología con responsabilidad ciud
 Prada, J. et al. (2014). Investigación acción participativa en comunidades venezolanas. Universidad Bolivariana de Venezuela.
 
 ## **Anexos**
+### Plan de Acción: Fortalecimiento Tecnológico Participativo
+  - **Duración:** 3 meses 
+  - **Frecuencia:** 2 actividades por semana (martes y jueves)
+  - **Inicio:** Martes, 4 de marzo
+  - **Lugar:** Oficina de Recursos Humanos – Contraloría del Municipio Zamora
+
+### MARZO – Diagnóstico y diseño participativo
+|Semana	-----|Fecha-----|Actividad------------------------------|
+|------------|----------|---------------------------------------|
+|1	|Mar 4  |	Inicio del diagnóstico participativo (observación institucional + técnica)|
+|   |Jue 6	|Entrevistas semiestructuradas a trabajadores clave|
+|2	|Mar 11	|Taller colectivo de lectura compartida del problema|
+|   |Jue 13	|Inventario técnico y levantamiento de ficha de estado de equipos|
+|3	|Mar 18	|Construcción de mapas de procesos y flujogramas participativos|
+|   |Jue 20	|Sistematización preliminar + presentación de hallazgos al equipo|
+|4	|Mar 25	|Presentación de la propuesta de actualización participativa (día clave)|
+|   |Jue 27	|Revisión colectiva y ajustes a la propuesta según sugerencias internas|
+
+### ABRIL – Formación y acciones de mantenimiento
+|Semana	-----|Fecha-----|Actividad------------------------------|
+|------------|----------|---------------------------------------|
+|1	|Mar 1	|Taller de formación técnica básica: cuidado y uso correcto del hardware|
+|   |Jue 3	|Sesión práctica: limpieza, organización de cables, chequeo de UPS|
+|2	|Mar 8	|Taller de solución de fallas comunes + herramientas de respaldo digital|
+|   |Jue 10	|Primera jornada de mantenimiento preventivo colectivo|
+|3	|Mar 15	|Actividad formativa: tecnología como derecho, cultura digital crítica|
+|   |Jue 17	|Segunda jornada de mantenimiento correctivo (software y sistemas)|
+|4	|Mar 22	|Simulación del proceso de actualización y validación de necesidades|
+|   |Jue 24	|Aprobación institucional de la propuesta de actualización (día clave)|
+
+### MAYO – Actualización, evaluación y entrega
+|Semana	-----|Fecha-----|Actividad------------------------------|
+|------------|----------|---------------------------------------|
+|1 	|Mar 29	|Preparación operativa para actualización (respaldos, asignación de roles)|
+|   |Jue 1	|Actualización del hardware y reorganización técnica (día clave)|
+|2	|Mar 6	|Evaluación participativa: reflexiones y seguimiento post-actualización|
+|   |Jue 8	|Taller de sistematización de la experiencia IAP (relato colectivo)|
+|3	|Mar 13	|Reunión con dirección: visibilización de logros y propuestas futuras|
+|   |Jue 15	|Entrega formal del proceso completo e informe participativo (cierre)|
+
