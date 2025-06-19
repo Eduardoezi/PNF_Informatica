@@ -98,15 +98,99 @@ En coherencia con los principios de la IAP, en lugar de hablar de “población 
 ### 5. Técnicas e instrumentos de recolección de información
 Se emplearán herramientas propias del enfoque cualitativo y participativo, que permitan recoger visiones, experiencias, saberes e interpretaciones desde una lógica horizontal. Entre ellas se contemplan:
 
-  a. Entrevistas semiestructuradas a trabajadores clave para explorar percepciones y problemáticas tecnológicas.
+####  1. Entrevistas semiestructuradas a trabajadores clave
+Esta técnica permite captar las percepciones, conocimientos previos, experiencias y preocupaciones de los trabajadores respecto al estado, uso y valor simbólico de los recursos tecnológicos en la oficina. Se utilizarán guías flexibles con preguntas abiertas, lo cual facilita la exploración de temas inesperados que emergen durante el diálogo.
 
-  b. Observación participante, como forma de comprender dinámicas institucionales en su contexto real.
+A diferencia de entrevistas estructuradas, este formato favorece la escucha activa y el diálogo horizontal, fortaleciendo la confianza entre investigador y entrevistado. La selección de trabajadores clave será intencionada: personas con experiencia directa en el uso del hardware institucional o con funciones organizativas que permitan comprender la estructura técnica y operativa de la institución.
 
-  c. Talleres diagnósticos colectivos, para construir una lectura compartida del problema.
+#### Guía de Entrevista Semiestructurada
+#### **Objetivo:**
+Explorar percepciones, experiencias y propuestas del personal de la Oficina de Recursos Humanos sobre el estado del hardware, el uso de la tecnología en su labor diaria y su disposición a participar en procesos de mejora colectiva.
 
-  d. Registros narrativos y diarios de campo, utilizados por los facilitadores para documentar reflexiones durante el proceso.
+##### 1. Inicio (acogida y contexto breve)
+  - Agradecer la participación y explicar brevemente el propósito de la entrevista.
+  - Garantizar confidencialidad, respeto y apertura.
+  - Invitar al diálogo desde la experiencia personal.
 
-  e. Mapas de procesos o flujogramas colaborativos, para identificar cuellos de botella operativos relacionados con la tecnología.
+##### 2. Preguntas orientadoras
+  A. Uso y percepción de la tecnología
+    ¿Cómo describirías el estado actual de los equipos tecnológicos en tu área de trabajo?
+    ¿Qué funciones realizas que dependen directamente del hardware disponible?
+    ¿Te sientes limitado por el estado de los equipos? ¿Por qué?
+  B. Mantenimiento, soluciones y cultura organizativa
+    ¿Qué tipo de acciones se suelen tomar cuando falla un equipo?
+    ¿Existe alguna política o protocolo claro sobre el mantenimiento tecnológico?
+    ¿Crees que la institución le da suficiente importancia al tema? ¿Por qué?
+  C. Saberes y participación
+    ¿Has participado o te gustaría participar en procesos de mejora tecnológica dentro de la institución?
+    ¿Qué saberes o experiencias personales crees que podrían aportar a una solución participativa?
+    ¿Cómo imaginas una estrategia comunitaria o institucional para mejorar el uso del hardware?
+  D. Discursos y percepción colectiva
+    ¿Qué piensas sobre las narrativas que consideran que la tecnología es innecesaria o dañina?
+    ¿Crees que eso influye en cómo se valora el recurso tecnológico dentro de tu institución?
+##### 3. Cierre
+  ¿Hay algo más que quisieras compartir sobre este tema?
+  ¿Te gustaría involucrarte en etapas futuras de este proceso reflexivo?
+
+##### Método de escucha y actitud del entrevistador
+  - Escucha activa: Parafrasear, asentir con respeto y seguir el hilo de lo que dice el entrevistado para mostrar comprensión.
+  - No interrumpir con juicios ni correcciones.
+  - Tomar notas discretas o grabar con consentimiento.
+  - Estar atento a lo que no se dice: silencios, énfasis, gestos.
+  - Ser sensible al tono emocional del relato. Si se expresa malestar o frustración, validarlo con empatía.
+
+##### 2. Observación participante
+La observación participante constituye una herramienta fundamental para comprender las dinámicas institucionales desde dentro. A través de la presencia activa y reflexiva del investigador en el espacio de trabajo, se registrarán patrones de uso del hardware, hábitos cotidianos, relaciones entre el personal y el entorno tecnológico, así como obstáculos no verbalizados.
+
+Esta técnica permitirá contrastar lo que los actores dicen con lo que efectivamente hacen, revelando tensiones, zonas de conflicto o elementos invisibles en otras técnicas. Los registros se realizarán mediante notas de campo, con una postura ética que respete la intimidad de los participantes y el ritmo natural de la institución.
+
+##### Observación participante (con componente técnico-operativo)
+##### **Propósito general:**
+Comprender la dinámica institucional de uso del hardware desde una perspectiva integral que articule tanto las prácticas cotidianas de los actores como el estado físico, funcional y contextual de los equipos tecnológicos.
+
+##### Dimensiones de observación:
+##### A. Dimensión institucional-relacional (participativa):
+ - Interacciones del personal con los equipos tecnológicos.
+ - Prácticas de resolución de fallas: ¿quién decide? ¿quién repara? ¿cómo?
+ - Percepciones y actitudes frente al hardware (cuidado, temor, rechazo, indiferencia).
+ - Vinculación entre rol laboral y dependencia tecnológica.
+ - Diálogos espontáneos sobre el valor o el obstáculo que representa la tecnología.
+
+##### B. Dimensión técnica-operativa (registro técnico):
+ - Inventario básico del hardware: tipo de equipos, modelo, marca, años de uso estimado.
+ - Estado físico: daños visibles, adaptaciones improvisadas, accesibilidad.
+ - Arquitectura tecnológica: periféricos instalados, redes, conexiones, compatibilidades internas.
+ - Software usado regularmente y sus requisitos mínimos y recomendados.
+ - Compatibilidad entre hardware y software instalado.
+ - Ausencia o presencia de herramientas de respaldo (UPS, estabilizadores, routers funcionales, etc.).
+
+##### Instrumento sugerido: Bitácora de observación técnica-reflexiva
+- Una tabla dividida en tres columnas:
+
+|Fecha -------| área observada	Registro técnico	Registro reflexivo | Relacional-------------------------------|
+|------------|-----------------------------------------------------|------------------------------------------|
+|03/07/2025 |/ Unidad de Nómina	CPU marca X, Windows 7, 12 años de uso; impresora con fallas de alimentación	|Se evidenció frustración en el operador. Usa su teléfono personal para complementar tareas. Señala que “eso ya no sirve” pero nadie propone reemplazo.|
+
+##### Consideraciones éticas y metodológicas:
+- Se realizará la observación por tramos breves durante la jornada, sin interrumpir el ritmo institucional.
+- Se respetará el consentimiento y anonimato de los involucrados.
+- El investigador participará activamente en el entorno, pero sin alterar el funcionamiento normal.
+- Las observaciones serán trianguladas con entrevistas y talleres.
+
+#### 3. Talleres diagnósticos colectivos
+Se organizarán encuentros participativos con grupos de trabajadores donde, mediante metodologías activas (lluvia de ideas, matrices de análisis, dinámicas de visualización), se construirá una lectura compartida del problema tecnológico. Estos talleres tienen una doble función: como instrumento diagnóstico y como espacio de formación y toma de conciencia colectiva.
+
+El énfasis estará puesto en la horizontalidad del diálogo, el rescate de los saberes locales y el fortalecimiento del protagonismo comunitario. A partir de estos talleres, se espera producir acuerdos, identificar prioridades y delinear posibles rutas de solución desde las voces de quienes viven la realidad institucional día a día.
+
+#### 4. Registros narrativos y diarios de campo
+Durante todo el proceso se utilizarán diarios reflexivos del facilitador, donde se documentarán impresiones, aprendizajes emergentes, tensiones, logros y dificultades en la implementación de las actividades. Estos registros no solo servirán como bitácora de acompañamiento, sino también como herramienta de sistematización cualitativa, favoreciendo una mirada crítica sobre el propio proceso de investigación.
+
+Estos documentos permitirán volver sobre las experiencias, interpretar sentidos no evidentes y producir conocimiento desde la vivencia situada. En la lógica de la IAP, escribir también es transformar.
+
+#### 5. Mapas de procesos o flujogramas colaborativos
+Con el fin de visualizar de manera comprensible el funcionamiento interno de la oficina, se diseñarán, junto a los participantes, flujogramas o esquemas de procesos institucionales, identificando etapas, responsables y recursos involucrados. Esta herramienta gráfica facilitará la detección de cuellos de botella operativos vinculados al deterioro o mal uso del hardware.
+
+Más allá de su utilidad técnica, estos mapas promueven el pensamiento sistémico, refuerzan el sentido de pertenencia y permiten visualizar la complejidad del trabajo administrativo de manera participativa. Son, al mismo tiempo, diagnósticos visuales y propuestas de mejora estructuradas desde la voz de los protagonistas.
 
 Estas herramientas permiten una lectura plural, situada y coherente con los principios dialógicos y emancipadores de la IAP.
 
