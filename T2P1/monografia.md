@@ -107,5 +107,54 @@ Estas herramientas permiten una lectura plural, situada y coherente con los prin
 ## **Recomendaciones**
 
 ## **Referencias bibliográficas**
+Freire, P. (2005). Pedagogía del oprimido. México: Siglo XXI Editores.
+
+Fals Borda, O. (1986). El problema de cómo investigar la realidad para transformarla. Bogotá: Tercer Mundo.
+
+Kemmis, S., & McTaggart, R. (1988). The Action Research Planner. Victoria: Deakin University Press.
+
+Torres Carrillo, A. (2007). Investigación-acción participativa: saberes y prácticas para la transformación social. Bogotá: Ediciones Desde Abajo.
+
+De Sousa Santos, B. (2009). Una epistemología del sur. México: Siglo XXI Editores.
+
+Hurtado de Barrera, J. (2010). Metodología de la investigación holística. Caracas: Quirón.
+
+Martínez, M. (2007). La investigación cualitativa: Claves para un enfoque crítico. Madrid: Editorial Trillas.
+
+Castells, M. (2001). La era de la información: economía, sociedad y cultura. Vol. I. Madrid: Alianza Editorial.
+
+Dussel, I. (2012). Tecnología y subjetividad: debates contemporáneos. Buenos Aires: Paidós.
+
+UNESCO (2021). Informe sobre el futuro digital inclusivo. París: Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura.
+
+Cobo, C., & Moravec, J. (2011). Aprendizaje invisible: hacia una nueva ecología de la educación. Barcelona: Laboratori de Mitjans Interactius.
+
+Martínez, A. (2015). Tecnología y exclusión social en América Latina. Bogotá: CLACSO.
+
+López, A. (2018). Participación y empoderamiento en contextos comunitarios. Caracas: Editorial El Perro y la Rana.
+
+Pérez, M. (2016). Gestión pública y cultura organizacional en Venezuela. Caracas: Fondo Editorial IPASME.
+
+Herrera, J. (2019). Brecha digital y ciudadanía: desafíos para la inclusión tecnológica. Revista Latinoamericana de Ciencias Sociales, 17(2), 45–62.
+
+García, R. (2014). La tecnología como derecho humano emergente. Revista Iberoamericana de Educación, 65(1), 23–38.
+
+Álvarez, M. (2020). Educación técnica y emancipación social: una mirada desde la praxis. Revista Praxis Educativa, 22(3), 55–70.
+
+Rodríguez, L. (2017). Narrativas tecnológicas y control social en América Latina. Quito: FLACSO.
+
+Salazar, J. (2013). Tecnología, poder y subjetividad. Santiago: LOM Ediciones.
+
+UPEL (2022). Manual de trabajos de grado de especialización, maestría y tesis doctorales. Caracas: Universidad Pedagógica Experimental Libertador. [Disponible en línea en Calaméo o Studylib]
+
+Vera, R., Mollenhauer, K., Trufello, R., & Encinas, F. (2023). IAP: mediación tecnológica entre los usuarios y sus problemáticas en los territorios. Pontificia Universidad Católica de Chile.
+
+Bravo Orellana, E. R. (2013). Nuevas perspectivas acerca del impacto de la tecnología sobre el desempeño individual. Tesis doctoral, Universitat Ramon Llull.
+
+Gutiérrez Bejerano, S. (2023). La inteligencia artificial y su impacto en los gobiernos y sociedad actuales. Universidad de Valladolid.
+
+Avella Espitia, K. E., et al. (2021). IAP: metodología con responsabilidad ciudadana y profesional. Universidad Santo Tomás, Colombia.
+
+Prada, J. et al. (2014). Investigación acción participativa en comunidades venezolanas. Universidad Bolivariana de Venezuela.
 
 ## **Anexos**
