@@ -166,15 +166,23 @@ En coherencia con los principios de la IAP, en lugar de hablar de “población 
 
 ---
 
-| **Actividad** | **Descripción** | **Cronograma (Oct - Dic)** | **Recursos** | **Responsable(s)** | **KPI (Indicadores)** | **Seguimiento** |
-|--------------|-----------------|-----------------------------|---------------|---------------------|------------------------|-----------------|
-| Diagnóstico participativo | Observación institucional, entrevistas y mapeo de procesos. | Mar 7, Jue 9 / Mar 14, Jue 16 | Fichas, formatos, rotafolios | Nebraska, Verónica | 3 instrumentos aplicados<br>80% participación | Actas y registros |
-| Levantamiento técnico | Inventario físico del estado de computadoras e impresoras. | Mar 21, Jue 23 | Hojas de cálculo, fichas técnicas | Eduardo | 100% de equipos inventariados | Reporte de inventario |
-| Presentación de hallazgos | Socialización participativa y validación comunitaria. | Mar 28, Jue 30 | Proyector, presentación visual | Equipo completo | 1 jornada ejecutada<br>Propuestas validadas | Acta y retroalimentación |
-| Formación técnica básica | Uso correcto, limpieza y organización del hardware. | Oct 2, Jue 4 | Computadoras, UPS, herramientas | Nebraska, Eduardo | 2 sesiones realizadas<br>85% satisfacción | Encuestas y registro fotográfico |
-| Mantenimiento participativo I | Limpieza física y ordenamiento de estaciones de trabajo. | Oct 9, Jue 11 | Herramientas básicas, trapos, aire | Eduardo + voluntarios | 70% equipos intervenidos | Bitácora técnica |
-| Formación sobre cultura digital | Corresponsabilidad tecnológica y derecho a la información. | Oct 16, Jue 18 | Presentación, pizarra | Verónica | 1 taller dictado<br>Ideas emergentes captadas | Sistematización grupal |
-| Mantenimiento participativo II | Optimización de software, limpieza digital, instalación básica. | Oct 23
+| **Actividad**             | **Descripción**                                             | **Cronograma (Oct - Dic)** | **Recursos** | **Responsable(s)** | **KPI (Indicadores)** | **Seguimiento** |
+|---------------------------|-------------------------------------------------------------|-----------------------------|---------------|---------------------|------------------------|-----------------|
+| Diagnóstico participativo | Observación institucional, entrevistas y mapeo de procesos. | Oct Mar 7, Jue 9 / Mar 14, Jue 16 | Fichas, formatos, rotafolios | Nebraska, Verónica | 3 instrumentos aplicados<br>80% participación | Actas y registros |
+
+| Levantamiento técnico | Inventario físico del estado de computadoras e impresoras. | Oct Mar 21, Jue 23 | Hojas de cálculo, fichas técnicas | Eduardo | 100% de equipos inventariados | Reporte de inventario |
+
+| Presentación de hallazgos | Socialización participativa y validación comunitaria. | Oct Mar 28, Jue 30 | Proyector, presentación visual | Equipo completo | 1 jornada ejecutada<br>Propuestas validadas | Acta y retroalimentación |
+| Formación técnica básica | Uso correcto, limpieza y organización del hardware. | Nov Oct 2, Jue 4 | Computadoras, UPS, herramientas | Nebraska, Eduardo | 2 sesiones realizadas<br>85% satisfacción | Encuestas y registro fotográfico |
+| Mantenimiento participativo I | Limpieza física y ordenamiento de estaciones de trabajo. | Nov 9, Jue 11 | Herramientas básicas, trapos, aire | Eduardo + voluntarios | 70% equipos intervenidos | Bitácora técnica |
+| Formación sobre cultura digital | Corresponsabilidad tecnológica y derecho a la información. | Nov 16, Jue 18 | Presentación, pizarra | Verónica | 1 taller dictado<br>Ideas emergentes captadas | Sistematización grupal |
+| Mantenimiento participativo II | Optimización de software, limpieza digital, instalación básica. | Nov 23 Jue 25 (Semana 4)	| Software libre, antivirus, pendrives	|Eduardo Zambrano	|- 80% de equipos optimizados<br> |- Documentación técnica por equipo	Informe técnico por unidad<br>Validación del usuario|
+|Simulación de actualización	|Ensayo técnico y operativo de tareas clave con nuevo plan de actualización.	|Dic 4 (mar)	|Manual de procesos, roles definidos|	Todos los responsables	|- 1 ensayo ejecutado<br>- Correcciones registradas	|Check-list operativa<br>Retroalimentación grupal|
+
+|Actualización de hardware y reorganización	|Instalación de partes nuevas o mejoradas, cambio de disposición del espacio.	|Dic 6 (jue)	|Equipos de respaldo, mobiliario básico	|Eduardo Zambrano, personal participante	|- 100% de equipos priorizados intervenidos<br>|- Espacios optimizados	Informe final de intervención<br>Mapa actualizado|
+
+|Evaluación participativa	|Ronda de reflexiones abiertas sobre aprendizajes, logros y retos.	|Dic 11, Jue 13 (Semana 2)	|Formatos de evaluación sencilla, pizarra	|Nebraska Vera, Verónica Rodríguez	|- 2 sesiones completadas<br>- 10 propuestas emergentes	Bitácora de aportes|<br>Resumen de aprendizajes|
+|Sistematización y cierre	|Relato colectivo del proceso, entrega de informe e institucionalización.	|Dic 18, Jue 20 (Semana 3)	|Documento consolidado, evidencia multimedia	|Todos los responsables	|- 1 informe entregado<br>- Compromisos para 2026 firmados	|Firma del acta final<br>Compromiso institucional|
 
 ### 5. Técnicas e instrumentos de recolección de información
 Se emplearán herramientas propias del enfoque cualitativo y participativo, que permitan recoger visiones, experiencias, saberes e interpretaciones desde una lógica horizontal. Entre ellas se contemplan:
