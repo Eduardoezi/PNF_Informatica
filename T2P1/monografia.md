@@ -58,12 +58,12 @@ todo este personal directivo y técnico, incluyen a la Contralora
 
 
 Indicador	Descripción	Línea Base Estimada	Fuente
-  - Funcionamiento de equipos de impresión	% de equipos funcionales por oficina	< 25%	Observación directa.
-  - Obsolescencia del hardware	Antigüedad promedio de las computadoras	> 8 años	Entrevista
-  - Cobertura de computadoras	Relación entre número de funcionarios y equipos disponibles	1 equipo por cada 2 o más trabajadores en algunas oficinas	
-  - Dependencia presupuestaria	% de gastos operativos cubiertos por asignaciones externas	Alta (sin cifras exactas)	Declaración de la entrevistada
-  - Condiciones de infraestructura	Si la Contraloría cuenta o no con sede propia	No cuenta con sede; ocupa oficinas prestadas	Entrevista
-  - Participación del personal en gestión tecnológica	Número de trabajadores con capacidades para mantener equipos	Muy limitada (no sistematizada)	Entrevista
+  - Funcionamiento de equipos de impresión:	porcentaje de equipos funcionales por oficina	< 25%	Observación directa.
+  - Obsolescencia del hardware:	Antigüedad promedio de las computadoras	> 8 años. Resultado de la	entrevista
+  - Cobertura de computadoras:	Relación entre número de funcionarios y equipos disponibles. Existe	1 equipo por cada 2 o más trabajadores en algunas oficinas. Resultado de la entrevista	
+  - Dependencia presupuestaria:	porcentaje de gastos operativos cubiertos por asignaciones externas, (sin cifras exactas)	Declaración de la entrevistada
+  - Condiciones de infraestructura:	 ¿la Contraloría cuenta con sede propia?	No cuenta con sede; ocupa oficinas prestadas.	(Entrevista)
+  - Participación del personal en gestión tecnológica:	Número de trabajadores con capacidades para mantener equipos	Muy limitada (no sistematizada)	(Entrevista)
 
 
 
