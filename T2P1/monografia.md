@@ -42,27 +42,28 @@ todo este personal directivo y técnico, incluyen a la Contralora
   El recorte del presupuesto institucional, denunciado por la Dirección de Talento Humano, representa otra barrera significativa. Esta reducción impide planificar inversiones, adquirir equipos nuevos, contratar soporte técnico o gestionar adecuadamente el mantenimiento del hardware, perpetuando así un modelo reactivo, informal y dependiente de iniciativas individuales.
 
 2. Análisis de la Información: FODA
-|Fortalezas	|Debilidades|
-|-----------|-----------|
-|- Personal comprometido, que adapta los recursos disponibles a sus tareas.	|- Equipos informáticos obsoletos y ensamblados con partes recicladas.|
-|- Presencia de equipos técnicos mínimos en todas las oficinas (excepto archivo).	|- Déficit de infraestructura propia; oficinas prestadas en condiciones limitadas.|
-|- Organización estructurada con departamentos definidos. |- Impresoras defectuosas o en reparación, compartidas por varias direcciones.|
-|- Uso compartido y solidario de los pocos recursos disponibles.	|- Presupuesto anual reducido, que impide planificación e inversión sostenible.|
-|Oportunidades	|Amenazas|
-|- Posible articulación con instancias municipales y comunitarias para autogestión tecnológica.|	- Pérdida progresiva de capacidad operativa por deterioro de equipos.|
-|- Aplicación de la metodología IAP para fortalecer capacidades locales.	|- Riesgo de mayor colapso de funciones críticas por falta de inversión.|
-|- Integración de saberes técnicos comunitarios para mantenimiento básico.	|- Desmotivación del personal por precarización de sus condiciones.|
-|- Uso del diagnóstico para solicitar asignación de infraestructura propia.|	- Inestabilidad presupuestaria institucional recurrente.|
-|Internos: Condición del hardware, distribución del personal, uso compartido de oficinas, falta de conocimiento técnico sobre los equipos, estrategias improvisadas para impresión y documentación.| Externos: Recorte presupuestario, inexistencia de sede propia, ubicación provisional, dependencia de otras estructuras del gobierno municipal.|
 
-4. Indicadores Clave Propuestos
+  |Fortalezas	|Debilidades|
+  |-----------|-----------|
+  |- Personal comprometido, que adapta los recursos disponibles a sus tareas.	    |- Equipos informáticos obsoletos y ensamblados con partes recicladas.|
+  |- Presencia de equipos técnicos mínimos en todas las oficinas (excepto archivo).	|- Déficit de infraestructura propia; oficinas prestadas en condiciones limitadas.|
+  |- Organización estructurada con departamentos definidos. |- Impresoras defectuosas o en reparación, compartidas por varias direcciones.|
+  |- Uso compartido y solidario de los pocos recursos disponibles.	|- Presupuesto anual reducido, que impide planificación e inversión sostenible.|
+  |Oportunidades	|Amenazas|
+  |- Posible articulación con instancias municipales y comunitarias para autogestión tecnológica.|	- Pérdida progresiva de capacidad operativa por deterioro de equipos.|
+  |- Aplicación de la metodología IAP para fortalecer capacidades locales.	|- Riesgo de mayor colapso de funciones críticas por falta de inversión.|
+  |- Integración de saberes técnicos comunitarios para mantenimiento básico.	 |- Desmotivación del personal por precarización de sus condiciones.|
+  |- Uso del diagnóstico para solicitar asignación de infraestructura propia. |	- Inestabilidad presupuestaria institucional recurrente.|
+  |Internos: Condición del hardware, distribución del personal, uso compartido de oficinas, falta de conocimiento técnico sobre los equipos, estrategias improvisadas para impresión y documentación.| Externos: Recorte presupuestario, inexistencia de sede propia, ubicación provisional, dependencia de otras estructuras del gobierno municipal.|
+
+
 Indicador	Descripción	Línea Base Estimada	Fuente
-Funcionamiento de equipos de impresión	% de equipos funcionales por oficina	< 25%	Observación directa.
-Obsolescencia del hardware	Antigüedad promedio de las computadoras	> 8 años	Entrevista
-Cobertura de computadoras	Relación entre número de funcionarios y equipos disponibles	1 equipo por cada 2 o más trabajadores en algunas oficinas	Entrevista y observación
-Dependencia presupuestaria	% de gastos operativos cubiertos por asignaciones externas	Alta (sin cifras exactas)	Declaración de la entrevistada
-Condiciones de infraestructura	Si la Contraloría cuenta o no con sede propia	No cuenta con sede; ocupa oficinas prestadas	Entrevista
-Participación del personal en gestión tecnológica	Número de trabajadores con capacidades para mantener equipos	Muy limitada (no sistematizada)	Entrevista
+  - Funcionamiento de equipos de impresión	% de equipos funcionales por oficina	< 25%	Observación directa.
+  - Obsolescencia del hardware	Antigüedad promedio de las computadoras	> 8 años	Entrevista
+  - Cobertura de computadoras	Relación entre número de funcionarios y equipos disponibles	1 equipo por cada 2 o más trabajadores en algunas oficinas	
+  - Dependencia presupuestaria	% de gastos operativos cubiertos por asignaciones externas	Alta (sin cifras exactas)	Declaración de la entrevistada
+  - Condiciones de infraestructura	Si la Contraloría cuenta o no con sede propia	No cuenta con sede; ocupa oficinas prestadas	Entrevista
+  - Participación del personal en gestión tecnológica	Número de trabajadores con capacidades para mantener equipos	Muy limitada (no sistematizada)	Entrevista
 
 
 
@@ -140,7 +141,10 @@ Cierra el marco con una propuesta conceptual integradora: cómo reencuadrar la t
 
 ## **Marco metodológico**
 ### 1. Nivel de investigación
-Corresponde al nivel de profundidad teórica y empírica con el que se aborda el fenómeno. En el contexto de esta investigación participativa, se enmarca en un nivel interpretativo–crítico, pues no busca simplemente describir o medir una realidad, sino comprenderla en su complejidad y transformarla desde la praxis colectiva. Este nivel es coherente con la lógica dialógica de la IAP, donde la comprensión del fenómeno surge de la reflexión compartida y el compromiso ético con la acción.
+
+El presente estudio se enmarca en un nivel interpretativo-crítico, coherente con los principios del paradigma sociocrítico y la metodología de la Investigación-Acción Participativa (IAP). Este nivel no se limita a describir fenómenos ni a establecer relaciones causales aisladas; por el contrario, se orienta a la reflexión profunda de las condiciones institucionales, culturales y tecnológicas que configuran la realidad de la Contraloría Municipal del Municipio Zamora. A partir de la interacción dialógica con los actores institucionales, se busca identificar los fenomenos de obsolescencia tecnológica, precariedad operativa y limitaciones presupuestarias y asi porponer abordajes de respuesta y solucion desde las estructuras sociales históricamente construidas. En este sentido, los participantes no son observados como objetos de estudio, sino como sujetos activos y críticos capaces de generar conocimiento desde su experiencia cotidiana.
+
+Este nivel de investigación permite abordar la realidad desde una perspectiva transformadora, fomentando procesos de autorreflexión colectiva sobre las prácticas institucionales, los imaginarios en torno a la tecnología y las relaciones de poder presentes en la gestión pública local. La IAP, en tanto metodología dialógica y participativa, favorece la reconstrucción del conocimiento desde la praxis social, vinculando la interpretación crítica con la acción concreta. Así, el nivel interpretativo-crítico no solo guía la lectura de la problemática, sino que habilita la formulación de propuestas orientadas a la reapropiación social del hardware institucional, promoviendo autonomía, corresponsabilidad y justicia tecnológica desde lo local.
 
 ### 2. Tipo de investigación
 Este trabajo se adscribe al tipo de investigación cualitativa, participativa y transformadora. Su objetivo no es la generalización estadística, sino la comprensión situada de una realidad social concreta, y su transformación mediante el involucramiento activo de los actores que viven el problema. Dentro de este tipo, se prioriza la co-construcción del conocimiento a partir del diálogo entre saberes formales y saberes populares.
