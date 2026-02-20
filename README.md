@@ -42,7 +42,7 @@ Cada pilar está implementado en un notebook independiente con ejemplos interact
 ---
 ## 🧩 PILAR 1: CLASES Y OBJETOS
 
-### 📁 Código: [`Pilar 1 - Clases Objetos`](Pilar_1_-_Clases_Objetos.ipynb)
+### 📁 Código: [`Pilar 1 - Clases Objetos`](Pilar 1 - Clases Objetos.ipynb)
 
 ### 🎮 Ejemplo Implementado: **Sistema de Estudiantes**
 - Clase `Estudiante` con atributos: nombre, edad, carrera, nota
