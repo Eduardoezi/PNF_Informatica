@@ -133,7 +133,7 @@ R: Usar @property me da control total sobre cómo se accede y modifica el atribu
     Consistencia: Garantizo que todas las modificaciones pasen por las mismas reglas de negocio
 
 ## 🧩 PILAR 3: HERENCIA Y POLIMORFISMO
-### 📁 Código: [`Pilar 3 - Herencia y Polimorfismo`](`Pilar_3_-_Herencia_y_Polimorfismo.ipynb`)
+### 📁 Código: [`Pilar 3 - Herencia y Polimorfismo`](Pilar_3_-_Herencia_y_Polimorfismo.ipynb)
 
 ### 💼 Ejemplo Implementado: Sistema de Nómina
     Clase "padre": Empleado
@@ -171,7 +171,7 @@ R: Python utiliza "Dynamic Dispatch" o "Late Binding". Cuando se ejecuta emplead
 Esto sucede en tiempo de ejecución, no en compilación. Por eso aunque todos están en una lista de Empleado, cada uno ejecuta su versión específica.
 
 ## 🧩 PILAR 4: CLASES ABSTRACTAS
-### 📁 Código: [`Pilar 4 - Clases Abstractas`](`Pilar_4_-_Clases_Abstractas.ipynb`)
+### 📁 Código: [`Pilar 4 - Clases Abstractas`](Pilar_4_-_Clases_Abstractas.ipynb)
 
 ### 🎮 Ejemplo Implementado: Videojuego de Personajes
 
@@ -250,7 +250,7 @@ Requisitos previos
 
 bash
 
-git clone https://github.com/tuusuario/Fundamentos-POO-Python.git
+git clone https://github.com/Eduardoezi/PNF_Informatica.git
 cd Fundamentos-POO-Python
 
     Instalar dependencias (si es necesario)
