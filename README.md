@@ -31,17 +31,18 @@ Cada pilar está implementado en un notebook independiente con ejemplos interact
 
 ## 🧱 ESTRUCTURA DEL PROYECTO
 
-📦 Fundamentos-POO-Python/
-├── 📓 Pilar 1 - Clases Objetos.ipynb
-├── 📓 Pilar 2 - Abstraccion Encapsulamiento.ipynb
-├── 📓 Pilar 3 - Herencia y Polimorfismo.ipynb
-├── 📓 Pilar 4 - Clases Abstractas.ipynb
-└── 📄 README.md
+📦 Fundamentos-POO-Python
+
+├── 📓 Pilar 1 - Clases Objetos.ipynb.
+├── 📓 Pilar 2 - Abstraccion Encapsulamiento.ipynb.
+├── 📓 Pilar 3 - Herencia y Polimorfismo.ipynb.
+├── 📓 Pilar 4 - Clases Abstractas.ipynb.
+└── 📄 README.md.
 
 ---
 ## 🧩 PILAR 1: CLASES Y OBJETOS
 
-### 📁 Código: [`Pilar 1 - Clases Objetos.ipynb`](Pilar_1_-_Clases_Objetos.ipynb)
+### 📁 Código: [`Pilar 1 - Clases Objetos`](Pilar_1_-_Clases_Objetos.ipynb)
 
 ### 🎮 Ejemplo Implementado: **Sistema de Estudiantes**
 - Clase `Estudiante` con atributos: nombre, edad, carrera, nota
