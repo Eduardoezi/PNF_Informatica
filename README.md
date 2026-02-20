@@ -172,6 +172,7 @@ Esto sucede en tiempo de ejecución, no en compilación. Por eso aunque todos es
 
 ## 🧩 PILAR 4: CLASES ABSTRACTAS
 ### 📁 Código: [`Pilar 4 - Clases Abstractas`](`Pilar_4_-_Clases_Abstractas.ipynb`)
+
 ### 🎮 Ejemplo Implementado: Videojuego de Personajes
 
     Clase abstracta Personaje con métodos @abstractmethod
