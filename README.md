@@ -88,7 +88,7 @@ R: Los atributos como nombre, edad, carrera y nota se definen dentro del __init_
     Si los definiera fuera del constructor, serían atributos de clase (compartidos por todos los objetos), lo cual no tendría sentido porque cada estudiante debe tener su propio nombre y nota.
 
 ## 🧩 PILAR 2: ABSTRACCIÓN Y ENCAPSULAMIENTO
-### 📁 Código: [`Pilar2_Abstraccion_Encapsulamiento.ipynb`](Pilar_2_-_Abstraccion_Encapsulamiento.ipynb)
+### 📁 Código: [`Pilar 2 - Abstraccion Encapsulamiento`](Pilar_2_-_Abstraccion_Encapsulamiento.ipynb)
 
 ### 🏦 Ejemplo Implementado: Cajero Automático
     Clase CuentaBancaria con atributos público, protegido y privado
