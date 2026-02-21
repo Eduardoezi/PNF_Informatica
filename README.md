@@ -249,11 +249,8 @@ Requisitos previos
    1. Clonar el repositorio
 
 bash
-
 git clone https://github.com/Eduardoezi/PNF_Informatica.git
-cd Fundamentos-POO-Python
-
-    Instalar dependencias (si es necesario)
+cd PNF_Informatica
 
        - Pilar 1 - Clases Objetos.ipynb
        - Pilar 2 - Abstraccion Encapsulamiento.ipynb
@@ -279,9 +276,9 @@ La implementación práctica, especialmente el videojuego de personajes, hizo qu
    - Python abc module
 
 #### **📬 CONTACTO**
-  **Autor**:  Eduardo Zambrano
-  **GitHub**: @Eduardoezi
-  **Correo**: [eezambranois@gmail.com]
+ - **Autor**:  Eduardo Zambrano
+ - **GitHub**: @Eduardoezi
+ - **Correo**: [eezambranois@gmail.com]
 
 ⭐ Si este proyecto te fue útil, ¡no olvides darle una estrella en GitHub! ⭐
 
